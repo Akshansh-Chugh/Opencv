@@ -30,6 +30,7 @@ pip install -r requirements.txt
 - Interchange file formats among .jpg , .png , .jpeg
 - Record videos
 - Create numpy arrays of Images
+- Put text in videos , images
 
 ## Contributers
 - Akshansh Chugh
